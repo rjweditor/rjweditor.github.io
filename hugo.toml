@@ -1,0 +1,31 @@
+baseURL = 'https://robwill815.github.io/'
+languageCode = 'en-us'
+title = 'Get FOSS’d'
+theme = 'PaperMod'
+
+[pagination]
+pagerSize = 5
+
+[params]
+defaultTheme = "dark"
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowWordCount = true
+ShowToc = true
+
+[menu]
+
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 10
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 20
