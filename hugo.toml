@@ -16,6 +16,18 @@ ShowCodeCopyButtons = true
 ShowWordCount = true
 ShowToc = true
 
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/rjweditor"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/robertwilliamsproducer/"
+
+[[params.socialIcons]]
+  name = "vimeo"
+  url = "https://vimeo.com/user3491488"
+
 [menu]
 
 [[menu.main]]
