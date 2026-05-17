@@ -1,12 +1,9 @@
 +++
 date = '2026-05-17T12:09:09-05:00'
-draft = true
+draft = false
 title = 'About'
 +++
-+++
-title = "About"
-draft = false
-+++
+
 
 ## I build stories — now I’m rebuilding the tools behind them.
 
