@@ -9,7 +9,7 @@ pagerSize = 5
 [params]
 defaultTheme = "dark"
 ShowReadingTime = true
-ShowShareButtons = true
+ShowShareButtons = false
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
