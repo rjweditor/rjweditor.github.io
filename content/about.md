@@ -4,40 +4,34 @@ draft = false
 title = 'About'
 +++
 
+## I've spent 18 years making broadcast television. Now I'm rebuilding how I work.
 
-## I build stories — now I’m rebuilding the tools behind them.
+I'm Rob Williams — a Senior Creative Producer and Editor based in Chicago with nearly two decades of experience in broadcast video, on-air promotions, and editorial storytelling.
 
-For over a decade, I worked in broadcast production, marketing, and trailer editing. My job was to turn footage into emotion — to shape narrative, rhythm, and impact for millions of viewers.
+My career has run through some of the biggest names in Chicago broadcasting. At Weigel Broadcasting, I've led creative campaigns that secured sponsorships from 30+ national brands — Paramount Pictures, Allstate, Chase Bank, Home Depot, Peloton, and more — and driven measurable revenue growth year over year. Before that, I spent years at WGN-TV localizing national campaigns across 20+ Tribune-owned stations, helped launch Antenna TV, and contributed to WGN America's primetime expansion. Along the way I've picked up a Regional Emmy and multiple national AVA and VEGA Digital Awards for my work.
 
-But the tools behind that work have always been locked behind subscriptions, corporate ecosystems, and creative gatekeeping.
+I also hold degrees in Independent Filmmaking and Marketing from Governors State University — the latter earned Summa Cum Laude — and I've spent years working as a Technical Video Producer for the Fedora Project at Red Hat, building and documenting post-production pipelines that run entirely on Linux.
 
-This site is my transition log.
+I say all of this not to impress you, but to establish something simple: **when I write a guide here, it comes from someone who has actually shipped the work** — on deadline, at scale, for broadcast audiences in the millions.
 
-I’m rebuilding my entire creative pipeline using open source tools, starting with Fedora Linux, and documenting everything in public — the wins, the failures, and the experiments in between.
+---
 
-## What this is
+## So why this blog?
 
-This is not a portfolio.
-This is not a blog in the traditional sense.
+Because the tools I've relied on my entire career — Adobe, Avid, Apple — are rented. Subscription-gated. Locked to ecosystems I don't own and can't fully control.
 
-It’s a live record of:
+That started bothering me. And the deeper I got into open source workflows through my work with the Fedora Project, the more I realized a complete professional pipeline — editing, compositing, audio, motion graphics, color — was not only possible outside the proprietary stack, it was genuinely viable.
 
-* Moving from proprietary creative tools to open workflows
-* Learning Linux as a creative production environment
-* Rebuilding video, audio, and motion graphics pipelines
-* Exploring what creative independence actually looks like in practice
+This site is my public record of making that transition real.
 
-## What I believe
+I'm documenting everything: the tools that work, the ones that don't, the workarounds, the surprises, and the moments where open source does something the expensive stuff can't. It's built on Fedora Linux, and it's being written by someone who still cuts broadcast promos for a living while doing it.
 
-Creative tools should be:
+This is not a finished product. It's a working log — written by a working editor — of what creative independence actually looks like in practice.
 
-* open
-* durable
-* transparent
-* and owned by the people who use them
+---
 
-## Where this is going
+## What you'll find here
 
-I don’t know exactly where this ends up.
+Practical, experience-backed guides on open source creative tools — video editing, audio post, motion graphics, color workflows, and Linux as a production environment. No fluff. No "just use Kdenlive" without context. Real documentation from real production work.
 
-But I know I’m documenting the entire path there.
+If you're a creative professional curious about whether open source tools can hold up — or a Linux user trying to build something serious — you're in the right place.
