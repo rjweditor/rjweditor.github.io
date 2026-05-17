@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rjweditor.github.io/sitemap.xml
