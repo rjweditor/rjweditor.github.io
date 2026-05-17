@@ -3,7 +3,7 @@ date = '2026-05-17T09:40:06-05:00'
 draft = false
 title = 'Fedora Creative Suite'
 +++
-# Fedora Linux: The Creative Professional's Secret Weapon
+# Switching From Adobe Creative Cloud to Fedora Linux: My Real Workflow”
 
 > **The biggest misconception in creative production today is that professional work requires expensive proprietary ecosystems. It doesn't. The tools — and the assets — are already here.**
 
