@@ -6,7 +6,7 @@ title = 'Professional FOSS Codecs'
 +++
 
 
-# Professional Codecs Available to the FOSS Community
+# How to Deliver Professional Video on Linux Using ProRes, DNxHR, AV1, and EXR
 
 One of the biggest misconceptions about Linux creative workflows is that professional codecs are unavailable.
 
